@@ -12,7 +12,7 @@ public class Main {
                 .setHalatInterior(true)
                 .build();
 
-        Pacient pacient3 = new PacientBuilder("Georgescu Andrei")
+        Pacient pacient3 = new PacientBuilder("Georgescuu Andrei")
                 .build();
 
         System.out.println(pacient1);
